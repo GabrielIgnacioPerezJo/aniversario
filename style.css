@@ -1,0 +1,33 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+  body{
+  background-color: #a14242;
+  }
+  p{
+  font-size: 88px;
+  font-family: 'Times New Roman', "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+  margin: 30px;
+}
+.conten1{
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+.conten1 img{
+  height: 100px;
+}
+.pastel{
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+.pastel img{
+  height: 400px;
+}
+.conten2{
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
